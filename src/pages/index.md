@@ -39,4 +39,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/dsc_0204.jpg
+quote:
+  text: text
+  author: author
 ---
