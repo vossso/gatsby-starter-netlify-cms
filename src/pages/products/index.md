@@ -1,15 +1,17 @@
 ---
+heading: Heldin 1
+path: /products
 templateKey: product-page
 title: Produkte
 image: /img/dsc_0204.jpg
-heading: Heldin 1
-path: /products
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
   knowledge to anyone.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/favicon-32x32.png
+      text: blurb
   heading: Heading 2 ?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
