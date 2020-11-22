@@ -43,4 +43,25 @@ quote:
   text: Gibst du einem Mann einen Fisch, so ist er kurz gesättigt,  aber lehrst
     ihn zu fischen, hat er nie wieder Hunger.
   author: Moritz Heinze
+infoteasers:
+  infoteaser:
+    - image: /img/safari-pinned-tab.svg
+      heading: Planung & Bau
+      text: Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget
+        lacinia odio sem nec elit. Curabitur blandit tempus porttitor. Nullam
+        quis risus eget urna mollis ornare vel eu leo.
+    - image: /img/coffee-gear.png
+      heading: Service
+      text: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh,
+        ut fermentum massa justo sit amet risus. Curabitur blandit tempus
+        porttitor. Donec id elit non mi porta gravida at eget metus. Duis
+        mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia
+        odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere
+        velit aliquet. Vestibulum id ligula porta felis euismod semper. Cras
+        justo odio, dapibus ac facilisis in, egestas eget quam.
+    - image: /img/meeting-space.png
+      heading: Store
+      text: In unserem store können Sie sich rund um das Thema Pool informieren, eine
+        professionelle Wasseranalyse durchführen lassen und alles von der
+        Poolchemie über PVC-Fittinge bis hin zu Poolrobotern erwerben.
 ---
