@@ -40,6 +40,7 @@ main:
     alt: Coffee beans
     image: /img/dsc_0204.jpg
 quote:
-  text: text
-  author: author
+  text: Gibst du einem Mann einen Fisch, so ist er kurz gesättigt,  aber lehrst
+    ihn zu fischen, hat er nie wieder Hunger.
+  author: Moritz Heinze
 ---
